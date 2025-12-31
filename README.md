@@ -1,4 +1,5 @@
 # 🍽️ Zomato Bangalore Restaurant EDA
+<img width="1280" height="720" alt="zomato_pic" src="https://github.com/user-attachments/assets/edc76ef6-eee1-4f88-9818-8fe929a9bcf5" />
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on the **Zomato Bangalore restaurant dataset** to uncover insights related to restaurant locations, cuisines, ratings, pricing, and customer preferences.  
