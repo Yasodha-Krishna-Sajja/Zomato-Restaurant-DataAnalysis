@@ -113,7 +113,7 @@ The analysis is implemented in a Jupyter Notebook using Python and popular data 
 - A clear positive correlation exists between price and rating. Budget restaurants
   (₹0–300) average 3.56 stars while Luxury restaurants (₹3,000–6,000) average
   4.21 — a 0.65-point gap. Premium+ segments (₹600+) consistently outperform,
-  suggesting price-quality alignment in Bangalore's dining market..
+  suggesting price-quality alignment in Bangalore's dining market.
 
 ---
 
@@ -135,7 +135,7 @@ The analysis is implemented in a Jupyter Notebook using Python and popular data 
   confirming that quality and affordability co-exist where competition is highest.
 
 ---
-💡 Business Insights Summary
+## 💡 Business Insights Summary
 - BTM and Koramangala are Bangalore's highest-density restaurant zones — ideal for competitive benchmarking
 - Delivery infrastructure is critical — 65% online adoption signals where restaurant revenue is heading
 - 1,018 restaurants with high visibility but poor ratings are at churn risk — actionable for platform quality teams
